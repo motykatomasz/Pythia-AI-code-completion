@@ -1,0 +1,11 @@
+venv
+.idea
+__pycache__
+.pl
+.zip
+.jsonl
+.csv
+data/
+conf_mat/
+__pycache__/
+stats
